@@ -1,0 +1,41 @@
+.container {
+    
+    display: flex;
+    gap: 35px;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Playfair Display', serif;
+    flex-direction: column;
+    flex-direction: row;
+    align-items: center;
+    height: 800px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+   
+    
+    
+}
+.basic {
+    background-color: #ADFF2F;
+    
+  
+}
+.standard {
+    background-color: #7CFC00;
+}
+.premium {
+    background-color: #7CFC00;
+}
+ul {
+    list-style-type: none;
+}
+.ci {
+   position: relative;
+   left: 30px;
+}
+.cis {
+    position: relative;
+    left: 50px;
+}
+.user {
+    padding-left: 20px;
+}

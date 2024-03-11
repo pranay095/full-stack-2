@@ -1,0 +1,22 @@
+.box {
+    border: 8px solid black;
+    
+    padding: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: skyblue;
+    margin-right: 350px;
+    
+    
+}
+.dot {
+       border: 8px solid black;
+       margin-right: 350px;
+       margin-bottom: 20px;
+       padding-bottom: 200px;
+}
+.fuck {
+    border: 20px solid black;
+    padding: 20px 10px 20px;
+}

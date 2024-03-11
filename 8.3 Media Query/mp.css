@@ -1,0 +1,9 @@
+.h {
+    background-color: blue
+}
+@media (min-width: 360px) and (max-width: 740px)
+{
+    .h {
+        background-color: brown;
+    }
+}

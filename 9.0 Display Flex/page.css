@@ -1,0 +1,5 @@
+.page {
+    background-color: yellow;
+    display: flex;
+    gap: 25px;
+}

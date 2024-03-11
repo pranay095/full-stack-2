@@ -1,0 +1,21 @@
+.c {
+    background-color: aqua;
+    display: block;
+    
+}
+.a {
+    float: left;
+}
+.dog {
+    background-color: orangered ;
+    display: block;
+
+}
+.god {
+    float: left;
+    size: 50pxpx;
+}
+.f {
+    background-color: purple;
+    padding-left: 45%;
+}

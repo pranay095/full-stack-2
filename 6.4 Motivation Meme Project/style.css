@@ -1,0 +1,15 @@
+.box
+{
+  background-color: blue;
+  padding-bottom: 10px;
+  padding-top: 2px;
+}
+.y
+{
+  color: yellow;
+}
+.w
+{
+  color: white;
+  background-color: red;
+}
